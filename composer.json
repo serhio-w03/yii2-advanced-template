@@ -1,5 +1,5 @@
 {
-    "name": "nenad/yii2-advanced-template",
+    "name": "serhio-w03/yii2-advanced-template",
     "description": "Improved Yii 2 Advanced Application Template By Nenad Zivkovic",
     "keywords": ["yii2", "framework", "advanced", "improved", "application template", "nenad"],
     "type": "project",
@@ -10,7 +10,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.3.0",
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
