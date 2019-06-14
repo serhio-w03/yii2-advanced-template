@@ -1,3 +1,10 @@
++ changed composer json : extra.asset-installer-paths" option is deprecated
++ changed composer json : using codeception/codeception instead of yii-codeception
+    
+small motice : composer create-project nenad/yii2-advanced-template:2.2.3
+                                          +++
+                        replace _protected/init with init from master branch
+
 yii2-advanced-template
 ======================
 
