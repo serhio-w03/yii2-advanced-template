@@ -5,7 +5,7 @@ small notice :
 
 for the versions before 2.2.3.1 & php 7.2.+ (includes articles demo) : 
 
-   ( composer create-project nenad/yii2-advanced-template:2.2.3 ; includes )
+   ( composer create-project nenad/yii2-advanced-template:2.2.3  )
 
                                           +++
                                           
