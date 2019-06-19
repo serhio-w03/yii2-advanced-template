@@ -1,11 +1,17 @@
 + changed composer json : extra.asset-installer-paths" option is deprecated
 + changed composer json : using codeception/codeception instead of yii-codeception
     
-small notice : composer create-project nenad/yii2-advanced-template:2.2.3
+small notice : 
+
+for the versions before 2.2.3.1 & php 7.2.+ (includes articles demo) : 
+
+   ( composer create-project nenad/yii2-advanced-template:2.2.3 ; includes )
 
                                           +++
                                           
-                        replace _protected/init with init from master branch
+                        replace _protected/init with init from master branch : replaced mcrypt with openssl
+                        optional: replace composer.json with composer.json from master branch (see lines above)
+                        composer update after changes
 
 yii2-advanced-template
 ======================
